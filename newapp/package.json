@@ -1,0 +1,22 @@
+{
+  "name": "newapp",
+  "version": "1.0.0",
+  "description": "dad",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "cookie-parser": "^1.4.3",
+    "cors": "^2.8.4",
+    "express": "^4.15.3",
+    "fs": "0.0.1-security",
+    "fs-extra": "^4.0.0",
+    "jade": "^1.11.0",
+    "morgan": "^1.8.2",
+    "path": "^0.12.7"
+  }
+}
